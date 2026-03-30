@@ -80,10 +80,10 @@ export const CONFIG = {
           tag: "Requirements, BRD",
         },
         {
-          title: "Document Extraction Pipeline",
+          title: "Smart Regression Suite",
           description:
-            "Extract structured data from policy documents, SOVs and loss runs at scale.",
-          url: "https://example.com/doc-extract",
+            "AI-Powered GW Test Generation -- Guidewire AMS Accelerator",
+          url: "https://gw-smart-regression.vercel.app/",
           tag: "Automation",
         },
          {
@@ -97,23 +97,21 @@ export const CONFIG = {
       ],
     },
 
-    // ── HOW TO ADD A NEW SEGMENT ─────────────────────────────
-    // Uncomment and fill in the block below, then save.
-    //
-    // {
-    //   id: "analytics",
-    //   label: "Analytics Focussed",
-    //   icon: "◎",
-    //   description: "AI tools for reporting, BI, and data-driven decisions.",
-    //   accent: "#A78BFA",
-    //   links: [
-    //     {
-    //       title: "My Tool Name",
-    //       description: "Short description of what this tool does.",
-    //       url: "https://your-url.com",
-    //       tag: "Category",
-    //     },
-    //   ],
-    // },
+  
+     {
+       id: "Estimator",
+       label: "Guidewire Estimation Model",
+       icon: "◎",
+       description: "AI tools for reporting, BI, and data-driven decisions.",
+       accent: "#A78BFA",
+       links: [
+         {
+           title: "GW Cloud Migration Estimator",
+           description: "Ability to quickly size a ROM estimate",
+           url: "https://gw-cloud-estimator.vercel.app/",
+           tag: "Estimate",
+         },
+       ],
+     },
   ],
 };
