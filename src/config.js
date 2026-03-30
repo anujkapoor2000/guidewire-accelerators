@@ -39,7 +39,7 @@ export const CONFIG = {
           description:
             "AI-Powered Mid-Term Endorsement Intelligence -- PolicyCenter AMS Accelerator",
           url: "https://example.com/customer360",
-          tag: "Policy","CX",
+          tag: "Policy,CX",
         },
         {
           title: "Renewal Propensity Model",
