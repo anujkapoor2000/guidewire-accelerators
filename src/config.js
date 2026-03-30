@@ -35,11 +35,11 @@ export const CONFIG = {
           tag: "Claims",
         },
         {
-          title: "Policy Email Ingester",
+          title: "Renewal Risk Scorer",
           description:
-            "AI-Powered Mid-Term Endorsement Intelligence -- PolicyCenter AMS Accelerator",
+            "AI-Powered Renewal Book Intelligence -- PolicyCenter AMS Accelerator",
           url: "https://gw-policy-ingestor.vercel.app/",
-          tag: "Policy,CX",
+          tag: "Policy,Renewal",
         },
         {
           title: "Policy Email Ingestor",
