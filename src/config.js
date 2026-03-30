@@ -73,11 +73,11 @@ export const CONFIG = {
           tag: "Dev Productivity",
         },
         {
-          title: "Config Bundle Reviewer",
+          title: "Requirements Analyser",
           description:
-            "LLM-assisted review of configuration bundles before promotion to production.",
-          url: "https://example.com/bundle-reviewer",
-          tag: "CI/CD",
+            " Fully functional Requirements Analyser application with NLP-powered Guidewire capability mapping. Extracts requirements, user stories, and business rules using LLM integration",
+          url: "https://reqanalyser-9tslyp5k.manus.space/dashboard",
+          tag: "Requirements, BRD",
         },
         {
           title: "Document Extraction Pipeline",
