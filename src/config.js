@@ -21,11 +21,11 @@ export const CONFIG = {
       accent: "#00C2A8",
       links: [
         {
-          title: "Claims Triage Copilot",
+          title: "Endorsement Impact Analyser",
           description:
-            "AI-assisted first notice of loss triage and routing engine.",
-          url: "https://example.com/claims-triage",
-          tag: "Claims",
+            "AI-Powered Mid-Term Endorsement Intelligence -- PolicyCenter AMS Accelerator",
+          url: "https://gw-endorsement-analyser-s9qv-g54z9dos5.vercel.app/",
+          tag: "Policy",
         },
         {
           title: "Underwriting Risk Scorer",
@@ -35,11 +35,11 @@ export const CONFIG = {
           tag: "Underwriting",
         },
         {
-          title: "Customer 360 Insights",
+          title: "Policy Email Ingester",
           description:
-            "Unified AI dashboard surfacing policyholder behaviour and churn signals.",
+            "AI-Powered Mid-Term Endorsement Intelligence -- PolicyCenter AMS Accelerator",
           url: "https://example.com/customer360",
-          tag: "CX",
+          tag: "Policy","CX",
         },
         {
           title: "Renewal Propensity Model",
@@ -86,6 +86,14 @@ export const CONFIG = {
           url: "https://example.com/doc-extract",
           tag: "Automation",
         },
+         {
+          title: "Requirements Analyser",
+          description:
+            " Requirements Analyser application - POC Dashboard",
+              url: "https://gw-req-analyser.vercel.app/",
+          tag: "Requirements, BRD",
+        },
+        
       ],
     },
 
