@@ -28,25 +28,25 @@ export const CONFIG = {
           tag: "Policy",
         },
         {
-          title: "Underwriting Risk Scorer",
+          title: "FNOL Triage Copilot",
           description:
-            "LLM-powered risk narrative analysis for faster underwriting decisions.",
-          url: "https://example.com/uw-scorer",
-          tag: "Underwriting",
+            "AI-Powered Claims Intake Intelligence -- ClaimCenter AMS Accelerator",
+          url: "https://gw-fnol-triage.vercel.app/",
+          tag: "Claims",
         },
         {
           title: "Policy Email Ingester",
           description:
             "AI-Powered Mid-Term Endorsement Intelligence -- PolicyCenter AMS Accelerator",
-          url: "https://example.com/customer360",
+          url: "https://gw-policy-ingestor.vercel.app/",
           tag: "Policy,CX",
         },
         {
-          title: "Renewal Propensity Model",
+          title: "Policy Email Ingestor",
           description:
-            "Predict and act on renewal likelihood with explainable AI nudges.",
-          url: "https://example.com/renewal",
-          tag: "Retention",
+            "AI-Powered Email-to-PolicyCenter -- GW AMS Accelerator",
+          url: "https://gw-policy-ingestor.vercel.app/",
+          tag: "Policy, CX",
         },
       ],
     },
