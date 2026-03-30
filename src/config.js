@@ -38,7 +38,7 @@ export const CONFIG = {
           title: "Renewal Risk Scorer",
           description:
             "AI-Powered Renewal Book Intelligence -- PolicyCenter AMS Accelerator",
-          url: "https://gw-policy-ingestor.vercel.app/",
+          url: "https://gw-renewal-scorer.vercel.app/",
           tag: "Policy,Renewal",
         },
         {
