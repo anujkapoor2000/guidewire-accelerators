@@ -46,7 +46,7 @@ export const CONFIG = {
           description:
             "AI-Powered Email-to-PolicyCenter -- GW AMS Accelerator",
           url: "https://gw-policy-ingestor.vercel.app/",
-          tag: "Policy, CX",
+          tag: "Policy,CX",
         },
       ],
     },
@@ -77,7 +77,7 @@ export const CONFIG = {
           description:
             " Fully functional Requirements Analyser application with NLP-powered Guidewire capability mapping. Extracts requirements, user stories, and business rules using LLM integration",
           url: "https://reqanalyser-9tslyp5k.manus.space/dashboard",
-          tag: "Requirements, BRD",
+          tag: "Requirements,BRD",
         },
         {
           title: "Smart Regression Suite",
@@ -91,7 +91,7 @@ export const CONFIG = {
           description:
             " Requirements Analyser application - POC Dashboard",
               url: "https://gw-req-analyser.vercel.app/",
-          tag: "Requirements, BRD",
+          tag: "Requirements,BRD",
         },
         
       ],
