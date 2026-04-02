@@ -59,10 +59,10 @@ export const CONFIG = {
       accent: "#FF6B35",
       links: [
         {
-          title: "PolicyCenter Data Validator",
+          title: "Test DataHub Accelerator",
           description:
-            "Automated data quality checks using AI to flag migration anomalies.",
-          url: "https://example.com/pc-validator",
+            "AI-powered test data generation for PolicyCenter · ClaimCenter · BillingCenter",
+          url: "https://gw-datahub.vercel.app/",
           tag: "Data Quality",
         },
         {
@@ -107,9 +107,15 @@ export const CONFIG = {
        links: [
          {
            title: "GW Cloud Migration Estimator",
-           description: "Ability to quickly size a ROM estimate",
+           description: "Ability to quickly size a ROM estimate for Cloud Migration",
            url: "https://gw-cloud-estimator.vercel.app/",
-           tag: "Estimate",
+           tag: "Estimate, Cloud",
+         },
+            {
+           title: "GW Cloud Migration Estimator",
+           description: "Ability to quickly size a ROM estimate for AMS Engagement",
+           url: "https://gw-ams-estimator-new.vercel.app/",
+           tag: "Estimation,AMS",
          },
        ],
      },
