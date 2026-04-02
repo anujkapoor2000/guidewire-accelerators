@@ -93,6 +93,14 @@ export const CONFIG = {
               url: "https://gw-req-analyser.vercel.app/",
           tag: "Requirements,BRD",
         },
+
+         {
+          title: "Guidewire Test Stub Generator",
+          description:
+            " Generate Test Stubs",
+              url: "https://gw-stub-builder.vercel.app/",
+          tag: "Test,QA",
+        },
         
       ],
     },
