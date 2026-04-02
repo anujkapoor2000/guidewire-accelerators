@@ -69,7 +69,7 @@ export const CONFIG = {
           title: "Gosu Copilot",
           description:
             "AI coding assistant fine-tuned on Guidewire Gosu patterns and idioms.",
-          url: "https://example.com/gosu-copilot",
+          url: "https://vercel.com/kapooranuj-8306s-projects/gosu-pilot-new",
           tag: "Dev Productivity",
         },
         {
