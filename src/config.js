@@ -120,10 +120,32 @@ export const CONFIG = {
            tag: "Estimate, Cloud",
          },
             {
-           title: "GW Cloud Migration Estimator",
+           title: "GW AMS Migration Estimator",
            description: "Ability to quickly size a ROM estimate for AMS Engagement",
            url: "https://gw-ams-estimator-new.vercel.app/",
            tag: "Estimation,AMS",
+         },
+       ],
+     },
+
+    {
+       id: "CLoud Migration",
+       label: "Guidewire Cloud Asssessment Tool",
+       icon: "◎",
+       description: "AI tools for CLoud assessment and APD analysis.",
+       accent: "#A78BFA",
+       links: [
+         {
+           title: "GW Cloud Readiness Tool",
+           description: "Ability to quickly size a ROM estimate for Cloud Migration",
+           url: "https://cloud-readiness.vercel.app/",
+           tag: "Estimate, Cloud",
+         },
+            {
+           title: "GW APD Analyser",
+           description: "APD Conversion Analyser, Claude will generate a full APD migration plan — effort estimates, phase breakdown, risks and recommendations.",
+           url: "https://gw-ams-estimator-new.vercel.app/",
+           tag: "Estimation, Cloud",
          },
        ],
      },
