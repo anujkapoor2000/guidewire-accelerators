@@ -131,21 +131,21 @@ export const CONFIG = {
     {
        id: "CLoud Migration",
        label: "Guidewire Cloud Asssessment Tool",
-       icon: "◎",
-       description: "AI tools for CLoud assessment and APD analysis.",
+       icon: "+",
+       description: "AI tools for Guidewire Cloud assessment and APD analysis.",
        accent: "#A78BFA",
        links: [
          {
            title: "GW Cloud Readiness Tool",
-           description: "Ability to quickly size a ROM estimate for Cloud Migration",
+           description: "A structured  diagnostic across five domains. Produces an AI-generated readiness report with RAG scoring, migration timeline estimate, and prioritised NTT DATA recommendations.",
            url: "https://cloud-readiness.vercel.app/",
-           tag: "Estimate, Cloud",
+           tag: "Readiness, Cloud",
          },
             {
            title: "GW APD Analyser",
            description: "APD Conversion Analyser, Claude will generate a full APD migration plan — effort estimates, phase breakdown, risks and recommendations.",
-           url: "https://gw-ams-estimator-new.vercel.app/",
-           tag: "Estimation, Cloud",
+           url: "https://apd-analyser.vercel.app/",
+           tag: "APD, Cloud",
          },
        ],
      },
